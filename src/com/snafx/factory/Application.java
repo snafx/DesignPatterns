@@ -10,6 +10,6 @@ public class Application {
         Car car2 = abstractCarFactory.buildBMWCar("320d");
         Car car3 = abstractCarFactory.buildMercedesCar("S600");
 
-      
+
     }
 }
