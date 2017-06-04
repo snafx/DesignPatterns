@@ -1,8 +1,6 @@
 package com.snafx.factory;
 
-/**
- * Created by RENT on 2017-06-02.
- */
+
 public class BMWCarFactory implements CarFactory {
     @Override
     public Car buildCar(String model) {

@@ -14,7 +14,7 @@ public class BMW implements Car {
 
     @Override
     public void drive() {
-        System.out.println("Driving with BMW");
+        System.out.println("Driving with BMW" + model);
         System.out.println("Engine: " + engine.toString());
         System.out.println("Wheels: " + wheels.toString());
     }
