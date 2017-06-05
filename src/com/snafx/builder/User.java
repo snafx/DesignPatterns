@@ -1,12 +1,10 @@
 package com.snafx.builder;
 
-import lombok.AccessLevel;
-import lombok.Builder;
-import lombok.Data;
-import lombok.Getter;
+import lombok.*;
 
 @Builder
 @Data
+@AllArgsConstructor
 
 public class User {
 
