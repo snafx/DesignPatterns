@@ -8,7 +8,6 @@ public class Application {
         emergencyChain.invoke(997);
         emergencyChain.invoke(9980);
 
-        System.out.println("bla bla bla");
     }
 
 
