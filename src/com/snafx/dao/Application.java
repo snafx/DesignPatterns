@@ -7,7 +7,8 @@ import java.util.List;
 
 public class Application {
 
-    private static final String PATH = "C:\\Users\\RENT\\IdeaProjects\\DesignPatterns\\users";
+//    private static final String PATH = "C:\\Users\\RENT\\IdeaProjects\\DesignPatterns\\users";
+    private static final String PATH = "C:\\Users\\snaf\\IdeaProjects\\DesignPatternsExamples\\users";
 
     public static void main(String[] args) {
 

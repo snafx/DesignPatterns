@@ -5,9 +5,6 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-/**
- * Created by RENT on 2017-06-05.
- */
 public class test {
     public static void main(String[] args) {
 
